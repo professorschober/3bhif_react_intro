@@ -1,6 +1,6 @@
 # 3bhif_react_demo Project
 
-## nach Stunde 1 und Stunde 2
+## nach Stunde 2
 
 # React + TypeScript + Vite
 
