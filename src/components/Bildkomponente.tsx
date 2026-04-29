@@ -1,5 +1,5 @@
 import React from 'react';
-import duck from '../assets/duck.jpg'
+import duck from '../assets/duck.jpeg'
 
 const Bildkomponente = () => {
     return (
